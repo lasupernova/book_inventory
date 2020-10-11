@@ -3,7 +3,6 @@ Flask-JWT+Configuration+Tutorial.pdf
 *.pyc
 *.py[cod]
 test*
-dist
 build
 nonOOP*
 books.db
